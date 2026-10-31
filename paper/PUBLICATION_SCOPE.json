@@ -1,0 +1,11 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "public_files": {
+    "paper/main.tex": "e7b3daafa8ab89f34570cc30c4dbff5301e596d988777d1b4a2ef9b909577bab",
+    "paper/manuscript.pdf": "90f95a63d7796554abebd8ab1842df842a92653ce5eaef5a7bd62c13032d65c0",
+    "paper/images/key_retention.pdf": "4588d11aa4a4d014e1ba42b5a79848bb4194703823751b4588c8d7a3982070d9",
+    "paper/images/context_collisions.pdf": "969218cf56769714a1db0f390d1d8eb14829ada2c0c74e736149d70a4cad97e3",
+    "paper/images/numeric_disagreement.pdf": "0a51bdd9d7647d5d9864dc79d5422721e89e2596a7dae65a3e6fe660eda2e747"
+  }
+}

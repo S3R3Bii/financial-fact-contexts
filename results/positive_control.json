@@ -1,0 +1,27 @@
+{
+  "scope": "POST_ANALYSIS_POSITIVE_CONTROL",
+  "original_seven_requests_changed": false,
+  "request": {
+    "purpose": "current_fact",
+    "cik": "320193",
+    "adsh": "0000320193-26-000020",
+    "tag": "Assets",
+    "version": "us-gaap/2025",
+    "ddate": "20260630",
+    "qtrs": "0",
+    "uom": "USD",
+    "segment_hash": "",
+    "coreg_hash": ""
+  },
+  "response": {
+    "status": "ACCEPTED_QUALIFIED",
+    "value": "383266000000.0000",
+    "uom": "USD",
+    "qtrs": "0",
+    "adsh": "0000320193-26-000020",
+    "source_truth": "UNESTABLISHED",
+    "original_time_availability": "UNESTABLISHED",
+    "formal_restatement": "UNESTABLISHED",
+    "qualification": "One current SEC extract fact;rounded period/duration fields and full context retained;not a production or investment service"
+  }
+}

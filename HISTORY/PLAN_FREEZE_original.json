@@ -1,0 +1,30 @@
+{
+  "source_checkpoint": "726c8889249e48f2cb8ba22773dab5fa98cc6a76",
+  "hashes": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "DATA_RIGHTS.md": "b294bed8e75b2c607ac7f59aa93d2a6f921139301bac9d3272cc5d5a2cf807d8",
+    "ORIGINAL_PROPOSAL.md": "2505e1c605a20902d8da46643159cd5931deb406c7f5624561f7e2827045e1af",
+    "PROTOCOL.md": "d1471a55da86f19e2092684a47d06ae26f76271d1b5a6a1dec704d3f1ca420ab",
+    "SOURCE_HISTORY.md": "b0d9533be10c4e404f511970a6e8c3466744d502353651c948e1c2545a96d26e",
+    "data/README.md": "1922a3254a6f69ba6aafd1f9ea4a57ba7c742c80a5b5119b99d82c5b7bae058b",
+    "data/capture_receipt.json": "677a46d7c3b543bd7266513220af366748345e5298c33fc1bcc42c3580bebe97",
+    "data/exercise_inputs.json": "f3e4eb0b05b6ac642726ba6965d02a5f999f81c072ab00fda6f7c305b04d71da",
+    "data/facts.csv": "082a7a942b1c5ac68511580fad292a78cc0e46debeccc87673c99093225b8eeb",
+    "data/native_verification.json": "22776b0146143e91c78ec093aadb1c5f603f788bf4f2bcf1c01fdad469c5386a",
+    "data/source_accounts.json": "41448072d68bc98d9619992730f31d9563d75fb6f1eeaf8a80cc3fa95b3fa7df",
+    "data/submissions.csv": "a889682f9c0a06ba0d2a409c5c694979eb34ff2644262fdf1ee8deadfc76bb5b",
+    "requirements-source.txt": "d10a136dace7f2f63b61417f480167de964fb1be1bb03d4db62de2feaa413f19",
+    "requirements.txt": "cee1c44fccc645667c739a02cc1cda60f936b0490b96ee6307d4df05c87f6ab4",
+    "src/analyze.py": "09a685e1f2f649b487bbf25c1b5486903bb56428ff87bbe59f077457d0a68b07",
+    "src/check_analysis.py": "12116fee14c06da334811d47546aafedddccece379bd5e8a01b9ff68f26564e1",
+    "src/check_native.py": "ab1c4f658be8d0cf9f0675f04dcc701b4dcebf20c305d2d2d6f930b63d73987c",
+    "src/check_source.py": "ff89e71dae9d27c46a5c1b3a19b3b10e564b95f54e276da8e0b00d429b291b33",
+    "src/exercise.py": "7960f43c356bccf0d527e3c237ac484462e9e960a660abd1640c4d92848388ed",
+    "src/freeze.py": "bb0e49afbabefdf5a84d965056e7a5b2a8ed12f4b2fad7a78d7831519f087010",
+    "src/metrics.py": "bdaae1b0d6e14730f63b2742a4f832f27e5db634674f09b18125026cf32ebcf1",
+    "src/project_source.py": "8de5cd16df8d35ce285d905ce5f10c46a49d91756d0472c071f58e5d7431ab43",
+    "src/replay.py": "96050726be4845eaa3d30e4f1b5e354c0e94badfd2e9e387ffb4b739c0ae9565",
+    "tests/test_boundaries.py": "3904c6c0c52f43229a30c23799ca5bb0ae62b149c23f7d95f5c05826cb660e70"
+  },
+  "qualification": "Actual source/method dependency hashes fixed before complete-context key comparisons. Current source values were visible during capture and reconciliation; not blinded."
+}

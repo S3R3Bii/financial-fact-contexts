@@ -1,0 +1,33 @@
+{
+  "native_rows": {
+    "sub.txt": 6516,
+    "tag.txt": 87871,
+    "pre.txt": 731170,
+    "num.txt": 3905397
+  },
+  "selected_accessions": 3,
+  "selected_accession_num_rows": 1554,
+  "selected_fact_rows": 247,
+  "projected_fact_cells": 247,
+  "eligible_fact_rows": 247,
+  "source_state_accounts": {
+    "ELIGIBLE": 247
+  },
+  "numeric_value_accounts": {
+    "KNOWN": 247
+  },
+  "duplicate_sub_keys": 0,
+  "duplicate_full_fact_keys": 0,
+  "company_submission_counts": {
+    "320193": 1,
+    "789019": 1,
+    "104169": 1
+  },
+  "company_fact_counts": {
+    "320193": 60,
+    "789019": 68,
+    "104169": 119
+  },
+  "source_sha256": "b6ebdc56b78526a6423f5b99f6e355afcb0510e7264324300ee5f0d3bd1bad21",
+  "scope": "Current reprocessed face-financial facts,complete fixed cohort and context;not source truth,verified restatements,exact fiscal boundaries or original-time availability."
+}

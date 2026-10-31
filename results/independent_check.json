@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "finite_conditions": 2039,
+  "complete_groups": 632,
+  "complete_memberships": 1482,
+  "company_tag_key_cases": 108,
+  "repeated_context_observations": 0,
+  "examples": 7,
+  "method": "Independent SQLite grouping/distinct counts and memberships,Fraction values,direct deterministic winner and context reconstruction;no production imports",
+  "scope": "Complete current-source relational-key and authored overwrite accounting;not a verified restatement or historical model-leakage assessment."
+}

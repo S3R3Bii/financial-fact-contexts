@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-10-31T04:59:12.471722+00:00",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "manuscript_sha256": "90f95a63d7796554abebd8ab1842df842a92653ce5eaef5a7bd62c13032d65c0",
+  "reviewed_figure_png_sha256": {
+    "figures/context_collisions.png": "cfd1500e8a384786c791b970d8a91328947fe34b7ad653514c7f5a0ac2835fa1",
+    "figures/key_retention.png": "e164914eda813b797f38cd3725386967a99b1ec50cc5154d6099899105dfa856",
+    "figures/numeric_disagreement.png": "850f690540a4d386923952858f4a609952921566a43c13fad69cd5c1543cdf7a"
+  },
+  "method": "All six current100-dpi rendered pages and all three full-resolution figure PNGs inspected.",
+  "findings": "PASS: readable hierarchy,all18 company/tag and6key-level table rows,all six key labels,zero categories,units and material limits visible;no current clipping or overlap observed.Tectonic log has no overfull/underfull or missing-character warnings.No accessibility conformance claim."
+}

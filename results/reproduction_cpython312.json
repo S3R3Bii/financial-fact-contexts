@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "python": "3.12.14",
+  "reproduced_files": [
+    "group_accounts.csv",
+    "memberships.csv",
+    "company_tag_keys.csv",
+    "repeated_contexts.csv",
+    "summary.json",
+    "exercise.json"
+  ],
+  "unchanged_source_files": 8,
+  "native_redownload": false,
+  "scope": "Frozen minimal current source replay, not independent reacquisition or original-vintage evidence.",
+  "checkout_head": "c0f5051fadfcca7174b082a0ff74ae202e53fc5a",
+  "full_history": true,
+  "additional_postanalysis_positive_control": "PASS_BYTE_EXACT_AND_INDEPENDENT_SOURCE_CHECK"
+}

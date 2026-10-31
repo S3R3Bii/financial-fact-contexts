@@ -1,0 +1,1992 @@
+[
+  {
+    "name": "BoundA",
+    "file": "results/summary.json",
+    "field": [
+      "eligible_facts"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "247"
+  },
+  {
+    "name": "BoundB",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "27"
+  },
+  {
+    "name": "BoundC",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "220"
+  },
+  {
+    "name": "BoundD",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "mixed_duration"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "10"
+  },
+  {
+    "name": "BoundE",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "mixed_segment_coreg"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "16"
+  },
+  {
+    "name": "BoundF",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "210"
+  },
+  {
+    "name": "BoundG",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "37"
+  },
+  {
+    "name": "BoundH",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "numeric_disagreements"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "215"
+  },
+  {
+    "name": "BoundI",
+    "file": "results/summary.json",
+    "field": [
+      "selected_accessions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "3"
+  },
+  {
+    "name": "BoundJ",
+    "file": "results/summary.json",
+    "field": [
+      "fixed_company_tag_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "18"
+  },
+  {
+    "name": "BoundK",
+    "file": "results/summary.json",
+    "field": [
+      "repeated_context_observations"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundL",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "27"
+  },
+  {
+    "name": "BoundM",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "220"
+  },
+  {
+    "name": "BoundN",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "numeric_conflict"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "15"
+  },
+  {
+    "name": "BoundO",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "numeric_disagreements"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "215"
+  },
+  {
+    "name": "BoundP",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "mixed_duration"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "10"
+  },
+  {
+    "name": "BoundQ",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K0",
+      "mixed_segment_coreg"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "16"
+  },
+  {
+    "name": "BoundR",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "37"
+  },
+  {
+    "name": "BoundS",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "210"
+  },
+  {
+    "name": "BoundT",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "numeric_conflict"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "17"
+  },
+  {
+    "name": "BoundU",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "numeric_disagreements"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "203"
+  },
+  {
+    "name": "BoundV",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "mixed_duration"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundW",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K1",
+      "mixed_segment_coreg"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "24"
+  },
+  {
+    "name": "BoundX",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K2",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "37"
+  },
+  {
+    "name": "BoundY",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K2",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "210"
+  },
+  {
+    "name": "BoundZ",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K2",
+      "numeric_conflict"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "17"
+  },
+  {
+    "name": "BoundAA",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K2",
+      "numeric_disagreements"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "203"
+  },
+  {
+    "name": "BoundAB",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K2",
+      "mixed_duration"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAC",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K2",
+      "mixed_segment_coreg"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "24"
+  },
+  {
+    "name": "BoundAD",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K3",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "37"
+  },
+  {
+    "name": "BoundAE",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K3",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "210"
+  },
+  {
+    "name": "BoundAF",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K3",
+      "numeric_conflict"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "17"
+  },
+  {
+    "name": "BoundAG",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K3",
+      "numeric_disagreements"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "203"
+  },
+  {
+    "name": "BoundAH",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K3",
+      "mixed_duration"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAI",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K3",
+      "mixed_segment_coreg"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "24"
+  },
+  {
+    "name": "BoundAJ",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K4",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "247"
+  },
+  {
+    "name": "BoundAK",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K4",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAL",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K4",
+      "numeric_conflict"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAM",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K4",
+      "numeric_disagreements"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAN",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K4",
+      "mixed_duration"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAO",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K4",
+      "mixed_segment_coreg"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAP",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K5",
+      "groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "247"
+  },
+  {
+    "name": "BoundAQ",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K5",
+      "rows_beyond_one"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAR",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K5",
+      "numeric_conflict"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAS",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K5",
+      "numeric_disagreements"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAT",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K5",
+      "mixed_duration"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAU",
+    "file": "results/summary.json",
+    "field": [
+      "by_key",
+      "K5",
+      "mixed_segment_coreg"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAV",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "11"
+  },
+  {
+    "name": "BoundAW",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "3"
+  },
+  {
+    "name": "BoundAX",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "8"
+  },
+  {
+    "name": "BoundAY",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "8"
+  },
+  {
+    "name": "BoundAZ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Assets",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "11"
+  },
+  {
+    "name": "BoundBA",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBB",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBC",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBD",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBE",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Liabilities",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBF",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "4"
+  },
+  {
+    "name": "BoundBG",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundBH",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundBI",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundBJ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "NetIncomeLoss",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "4"
+  },
+  {
+    "name": "BoundBK",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "88"
+  },
+  {
+    "name": "BoundBL",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundBM",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "86"
+  },
+  {
+    "name": "BoundBN",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "86"
+  },
+  {
+    "name": "BoundBO",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "88"
+  },
+  {
+    "name": "BoundBP",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "16"
+  },
+  {
+    "name": "BoundBQ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundBR",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "14"
+  },
+  {
+    "name": "BoundBS",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "14"
+  },
+  {
+    "name": "BoundBT",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "Revenues",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "16"
+  },
+  {
+    "name": "BoundBU",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBV",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBW",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBX",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBY",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "104169",
+      "tag": "SalesRevenueNet",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBZ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCA",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCB",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCC",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCD",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Assets",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCE",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCF",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCG",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCH",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCI",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Liabilities",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCJ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "8"
+  },
+  {
+    "name": "BoundCK",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCL",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "6"
+  },
+  {
+    "name": "BoundCM",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "4"
+  },
+  {
+    "name": "BoundCN",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "NetIncomeLoss",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "8"
+  },
+  {
+    "name": "BoundCO",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "48"
+  },
+  {
+    "name": "BoundCP",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundCQ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "46"
+  },
+  {
+    "name": "BoundCR",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "46"
+  },
+  {
+    "name": "BoundCS",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "48"
+  },
+  {
+    "name": "BoundCT",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCU",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCV",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCW",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCX",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "Revenues",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCY",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundCZ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDA",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDB",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDC",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "320193",
+      "tag": "SalesRevenueNet",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDD",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundDE",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundDF",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDG",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Assets",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDH",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Assets",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundDI",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundDJ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundDK",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDL",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Liabilities",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDM",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Liabilities",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundDN",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "6"
+  },
+  {
+    "name": "BoundDO",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "3"
+  },
+  {
+    "name": "BoundDP",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "3"
+  },
+  {
+    "name": "BoundDQ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "NetIncomeLoss",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDR",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "NetIncomeLoss",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "6"
+  },
+  {
+    "name": "BoundDS",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "58"
+  },
+  {
+    "name": "BoundDT",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "3"
+  },
+  {
+    "name": "BoundDU",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "55"
+  },
+  {
+    "name": "BoundDV",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "55"
+  },
+  {
+    "name": "BoundDW",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "58"
+  },
+  {
+    "name": "BoundDX",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDY",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundDZ",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundEA",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Revenues",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundEB",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "Revenues",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundEC",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundED",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundEE",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "rows_beyond_one"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundEF",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "numeric_disagreements"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "SalesRevenueNet",
+      "level": "K0"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundEG",
+    "file": "results/company_tag_keys.csv",
+    "field": [
+      "groups"
+    ],
+    "query": {
+      "cik": "789019",
+      "tag": "SalesRevenueNet",
+      "level": "K4"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundEH",
+    "file": "results/summary.json",
+    "field": [
+      "company_tag_key_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "108"
+  },
+  {
+    "name": "BoundEI",
+    "file": "results/summary.json",
+    "field": [
+      "group_accounts"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "632"
+  },
+  {
+    "name": "BoundEJ",
+    "file": "results/summary.json",
+    "field": [
+      "memberships"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "1,482"
+  },
+  {
+    "name": "BoundEK",
+    "file": "data/source_accounts.json",
+    "field": [
+      "native_rows",
+      "sub.txt"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "6,516"
+  },
+  {
+    "name": "BoundEL",
+    "file": "data/source_accounts.json",
+    "field": [
+      "native_rows",
+      "tag.txt"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "87,871"
+  },
+  {
+    "name": "BoundEM",
+    "file": "data/source_accounts.json",
+    "field": [
+      "native_rows",
+      "pre.txt"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "731,170"
+  },
+  {
+    "name": "BoundEN",
+    "file": "data/source_accounts.json",
+    "field": [
+      "native_rows",
+      "num.txt"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "3,905,397"
+  },
+  {
+    "name": "BoundEO",
+    "file": "results/verification.json",
+    "field": [
+      "native_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "373"
+  },
+  {
+    "name": "BoundEP",
+    "file": "results/verification.json",
+    "field": [
+      "saved_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "2,232"
+  },
+  {
+    "name": "BoundEQ",
+    "file": "results/verification.json",
+    "field": [
+      "independent_analysis_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "2,039"
+  },
+  {
+    "name": "BoundER",
+    "file": "results/verification.json",
+    "field": [
+      "original_frozen_dependencies"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "24"
+  },
+  {
+    "name": "BoundES",
+    "file": "results/verification.json",
+    "field": [
+      "authored_fixture_methods"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "32"
+  },
+  {
+    "name": "BoundET",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3.10.11"
+  },
+  {
+    "name": "BoundEU",
+    "file": "results/reproduction_cpython312.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3.12.14"
+  },
+  {
+    "name": "BoundEV",
+    "file": "figures/verification.json",
+    "field": [
+      "source_bound_artists"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "54"
+  },
+  {
+    "name": "BoundEW",
+    "file": "figures/verification.json",
+    "field": [
+      "svg_coordinate_conditions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "216"
+  },
+  {
+    "name": "BoundEX",
+    "file": "results/verification.json",
+    "field": [
+      "positive_control_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "25"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "state": "CANDIDATE_READY",
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "source_gate": "PASS_CURRENT_EXTRACT_ONLY",
+  "native_conditions": 373,
+  "saved_source_conditions": 2232,
+  "independent_analysis_conditions": 2039,
+  "additional_positive_control_conditions": 25,
+  "authored_fixture_methods": 32,
+  "source_facts": 247,
+  "short_key_groups": 27,
+  "short_key_extra_contexts": 220,
+  "original_frozen_dependencies": 24,
+  "disclosed_checker_amendment": "One absent-context expectation corrected;source,production,original requests and all six primary outputs unchanged",
+  "isolated_replays": [
+    "3.10.11",
+    "3.12.14"
+  ],
+  "original_historical_restatement_leakage": "UNEXECUTED",
+  "source_truth_and_original_availability": "UNESTABLISHED",
+  "candidate_main_CI_tag_metadata": "PENDING",
+  "not_peer_reviewed": true
+}
