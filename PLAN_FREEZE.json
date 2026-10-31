@@ -16,7 +16,7 @@
     "requirements-source.txt": "d10a136dace7f2f63b61417f480167de964fb1be1bb03d4db62de2feaa413f19",
     "requirements.txt": "cee1c44fccc645667c739a02cc1cda60f936b0490b96ee6307d4df05c87f6ab4",
     "src/analyze.py": "09a685e1f2f649b487bbf25c1b5486903bb56428ff87bbe59f077457d0a68b07",
-    "src/check_analysis.py": "12116fee14c06da334811d47546aafedddccece379bd5e8a01b9ff68f26564e1",
+    "src/check_analysis.py": "1eb8b42ebab5288dad699cc823f6efc3f688f1daa99b7bb44db0977b74c32230",
     "src/check_native.py": "ab1c4f658be8d0cf9f0675f04dcc701b4dcebf20c305d2d2d6f930b63d73987c",
     "src/check_source.py": "ff89e71dae9d27c46a5c1b3a19b3b10e564b95f54e276da8e0b00d429b291b33",
     "src/exercise.py": "7960f43c356bccf0d527e3c237ac484462e9e960a660abd1640c4d92848388ed",
@@ -26,5 +26,16 @@
     "src/replay.py": "96050726be4845eaa3d30e4f1b5e354c0e94badfd2e9e387ffb4b739c0ae9565",
     "tests/test_boundaries.py": "3904c6c0c52f43229a30c23799ca5bb0ae62b149c23f7d95f5c05826cb660e70"
   },
-  "qualification": "Actual source/method dependency hashes fixed before complete-context key comparisons. Current source values were visible during capture and reconciliation; not blinded."
+  "qualification": "Actual source/method dependency hashes fixed before complete-context key comparisons. Current source values were visible during capture and reconciliation; not blinded.",
+  "original_comparison_freeze": "HISTORY/PLAN_FREEZE_original.json",
+  "original_freeze_sha256": "7c26d2bed02b052137a0dd494474a1d1e2099eba00abab72cbf022a7e98c1ccb",
+  "amendment": {
+    "kind": "POST_COMPARISON_VALIDATOR_EXPECTATION_ONLY",
+    "changed_dependency": "src/check_analysis.py",
+    "timestamp_utc": "2026-10-31T04:54:14.621196+00:00",
+    "reason": "Absent complete context must abstain;the original example guessed the wrong taxonomy version.",
+    "source_production_or_primary_outputs_changed": false,
+    "original_requests_changed": false,
+    "positive_control": "One separately labeled post-analysis request with actual us-gaap/2025 taxonomy;not part of original seven fixtures."
+  }
 }

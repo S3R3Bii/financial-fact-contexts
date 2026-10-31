@@ -319,10 +319,13 @@ def main():
                 if r["state"] == "ELIGIBLE"
                 and all(r[k] == request[k] for k in required)
             ]
-            require(
-                len(found) == 1 and response["status"] == "ACCEPTED_QUALIFIED",
-                "unique current context",
-            )
+            if len(found) != 1 or int(found[0]["source_records"]) != 1:
+                require(response["status"] == "ABSTAIN", "absent or ambiguous context abstains")
+                continue
+            if found[0]["value_state"] != "KNOWN":
+                require(response["status"] == "UNAVAILABLE", "unknown numeric value is unavailable")
+                continue
+            require(response["status"] == "ACCEPTED_QUALIFIED", "unique known current context")
             require(
                 response["value"] == found[0]["value"]
                 and response["uom"] == found[0]["uom"]

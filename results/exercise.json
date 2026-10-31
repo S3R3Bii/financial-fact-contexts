@@ -1,0 +1,77 @@
+[
+  {
+    "request": {
+      "purpose": "current_fact",
+      "cik": "320193",
+      "adsh": "0000320193-26-000020",
+      "tag": "Assets",
+      "version": "us-gaap/2026",
+      "ddate": "20260630",
+      "qtrs": "0",
+      "uom": "USD",
+      "segment_hash": "",
+      "coreg_hash": ""
+    },
+    "response": {
+      "status": "ABSTAIN",
+      "reason": "A unique eligible complete current context is unavailable"
+    }
+  },
+  {
+    "request": {
+      "purpose": "current_fact",
+      "cik": "104169",
+      "tag": "NetIncomeLoss",
+      "ddate": "20260731"
+    },
+    "response": {
+      "status": "ABSTAIN",
+      "reason": "Complete source context required;short latest-value keys may collapse different quantities"
+    }
+  },
+  {
+    "request": {
+      "purpose": "formal_restatement"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "No restatement,original-time,exact fiscal-date,forecast-accuracy or investment inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "historical_features"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "No restatement,original-time,exact fiscal-date,forecast-accuracy or investment inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "exact_fiscal_dates"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "No restatement,original-time,exact fiscal-date,forecast-accuracy or investment inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "forecast_accuracy"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "No restatement,original-time,exact fiscal-date,forecast-accuracy or investment inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "investment_advice"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "No restatement,original-time,exact fiscal-date,forecast-accuracy or investment inference"
+    }
+  }
+]
