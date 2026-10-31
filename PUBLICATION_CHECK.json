@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-10-31T04:55:19.349234+00:00",
+  "timestamp_utc": "2026-10-31T04:55:31.360626+00:00",
   "status": "PASS_BOUNDED_SCAN",
   "files_checked": 45,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
@@ -34,7 +34,7 @@
     "results/independent_check.json": "987ba1121f3696b5ca88f22a82ef44550a708563503f1289fbb28fd06deda38f",
     "results/memberships.csv": "26c88f178097d2fc51e1d79782432691d05454d63cafa16c0bd78d06c8a32115",
     "results/positive_control.json": "11f3ebc743343a2ab153fb204a9112447e0b8621f865ceaff50b9d4b821386e7",
-    "results/positive_control_verification.json": "29978574ff9e7cdf7b92524e5e660bcdc9975f57d7a9fb4fedc5d8dc71093c02",
+    "results/positive_control_verification.json": "d5edb304543d5a8a0798c72810539e74279269b349e6528b47df169bf527510c",
     "results/repeated_contexts.csv": "97d6ac55dcf4e361140b78daf95c448d4c51835d632b0d9af6e08a7f86c95dad",
     "results/summary.json": "983d12ca901d0d865d4ebc134f08c0cb11659e82e625f5cfe32efa687b8846fe",
     "src/analyze.py": "09a685e1f2f649b487bbf25c1b5486903bb56428ff87bbe59f077457d0a68b07",
