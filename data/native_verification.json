@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "finite_conditions": 373,
+  "native_rows": {
+    "sub.txt": 6516,
+    "tag.txt": 87871,
+    "pre.txt": 731170,
+    "num.txt": 3905397
+  },
+  "selected_fact_rows": 247,
+  "eligible_fact_rows": 247,
+  "pandas": "2.3.3",
+  "native_sha256": "b6ebdc56b78526a6423f5b99f6e355afcb0510e7264324300ee5f0d3bd1bad21",
+  "hashes": {
+    "data/facts.csv": "082a7a942b1c5ac68511580fad292a78cc0e46debeccc87673c99093225b8eeb",
+    "data/submissions.csv": "a889682f9c0a06ba0d2a409c5c694979eb34ff2644262fdf1ee8deadfc76bb5b",
+    "data/source_accounts.json": "41448072d68bc98d9619992730f31d9563d75fb6f1eeaf8a80cc3fa95b3fa7df",
+    "data/capture_receipt.json": "677a46d7c3b543bd7266513220af366748345e5298c33fc1bcc42c3580bebe97"
+  },
+  "method": "Independent pandas C chunks,Fraction values,SQLite complete key multiplicities,independent timestamp/date parsing and all native/metadata/projection controls;no production imports",
+  "scope": "Current submitted face-financial facts,not source truth,verified restatements or original historical availability."
+}
