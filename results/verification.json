@@ -1,0 +1,19 @@
+{
+  "status": "PASS_FINITE_LOCAL_CHECKS",
+  "native_source_conditions": 373,
+  "saved_source_conditions": 2232,
+  "independent_analysis_conditions": 2039,
+  "positive_control_conditions": 25,
+  "authored_fixture_methods": 32,
+  "original_frozen_dependencies": 24,
+  "postcomparison_validator_amended_dependencies": 1,
+  "result_sha256": {
+    "group_accounts.csv": "7a1cb8f395ad09a2cead00a6c8bbdd7fec3c77a21bdcbefc4c28250aa2cb2e70",
+    "memberships.csv": "26c88f178097d2fc51e1d79782432691d05454d63cafa16c0bd78d06c8a32115",
+    "company_tag_keys.csv": "755dc6212a954e20e54d2900d0e9bd7b7568448565d3b62933c1b1af4119fe2c",
+    "repeated_contexts.csv": "97d6ac55dcf4e361140b78daf95c448d4c51835d632b0d9af6e08a7f86c95dad",
+    "summary.json": "983d12ca901d0d865d4ebc134f08c0cb11659e82e625f5cfe32efa687b8846fe",
+    "exercise.json": "209df86ba39a0d7a41e33ab4cba046d6b8e64794282c57a549b8da631abd88eb"
+  },
+  "scope": "Complete current-source context audit;one disclosed checker expectation correction and additive post-analysis positive control;original historical restatement/leakage question unexecuted."
+}

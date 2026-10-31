@@ -1,0 +1,1652 @@
+[
+  {
+    "name": "key_retention",
+    "artists": [
+      {
+        "gid": "source-0-0",
+        "level": "K0",
+        "field": "groups",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "groups"
+        ],
+        "value": 27.0,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "27",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-1",
+        "level": "K1",
+        "field": "groups",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "groups"
+        ],
+        "value": 37.0,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "37",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-2",
+        "level": "K2",
+        "field": "groups",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "groups"
+        ],
+        "value": 37.0,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "37",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-3",
+        "level": "K3",
+        "field": "groups",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "groups"
+        ],
+        "value": 37.0,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "37",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-4",
+        "level": "K4",
+        "field": "groups",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "groups"
+        ],
+        "value": 247.0,
+        "position": 4,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "247",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-5",
+        "level": "K5",
+        "field": "groups",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "groups"
+        ],
+        "value": 247.0,
+        "position": 5,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "247",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-6",
+        "level": "K0",
+        "field": "rows_beyond_one",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "rows_beyond_one"
+        ],
+        "value": 220.0,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "220",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-7",
+        "level": "K1",
+        "field": "rows_beyond_one",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "rows_beyond_one"
+        ],
+        "value": 210.0,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "210",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-8",
+        "level": "K2",
+        "field": "rows_beyond_one",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "rows_beyond_one"
+        ],
+        "value": 210.0,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "210",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-9",
+        "level": "K3",
+        "field": "rows_beyond_one",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "rows_beyond_one"
+        ],
+        "value": 210.0,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "210",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-10",
+        "level": "K4",
+        "field": "rows_beyond_one",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "rows_beyond_one"
+        ],
+        "value": 0.0,
+        "position": 4,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-0-11",
+        "level": "K5",
+        "field": "rows_beyond_one",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "rows_beyond_one"
+        ],
+        "value": 0.0,
+        "position": 5,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            291.46
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "e164914eda813b797f38cd3725386967a99b1ec50cc5154d6099899105dfa856",
+      "svg": "52599cf668e06d68c9b8de6a6e8089d5d3a6316001078376b6c4d54ba16ad4a6",
+      "pdf": "4588d11aa4a4d014e1ba42b5a79848bb4194703823751b4588c8d7a3982070d9"
+    }
+  },
+  {
+    "name": "context_collisions",
+    "artists": [
+      {
+        "gid": "source-1-0",
+        "level": "K0",
+        "field": "mixed_duration",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "mixed_duration"
+        ],
+        "value": 10.0,
+        "position": -0.32,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "10",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-1",
+        "level": "K0",
+        "field": "mixed_units",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "mixed_units"
+        ],
+        "value": 0.0,
+        "position": -0.16,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-2",
+        "level": "K0",
+        "field": "mixed_taxonomy",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "mixed_taxonomy"
+        ],
+        "value": 0.0,
+        "position": 0.0,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-3",
+        "level": "K0",
+        "field": "mixed_segment_coreg",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "mixed_segment_coreg"
+        ],
+        "value": 16.0,
+        "position": 0.16,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "16",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-4",
+        "level": "K0",
+        "field": "mixed_accession",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "mixed_accession"
+        ],
+        "value": 0.0,
+        "position": 0.32,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-5",
+        "level": "K1",
+        "field": "mixed_duration",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "mixed_duration"
+        ],
+        "value": 0.0,
+        "position": 0.6799999999999999,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-6",
+        "level": "K1",
+        "field": "mixed_units",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "mixed_units"
+        ],
+        "value": 0.0,
+        "position": 0.84,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-7",
+        "level": "K1",
+        "field": "mixed_taxonomy",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "mixed_taxonomy"
+        ],
+        "value": 0.0,
+        "position": 1.0,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-8",
+        "level": "K1",
+        "field": "mixed_segment_coreg",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "mixed_segment_coreg"
+        ],
+        "value": 24.0,
+        "position": 1.16,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "24",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-9",
+        "level": "K1",
+        "field": "mixed_accession",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "mixed_accession"
+        ],
+        "value": 0.0,
+        "position": 1.32,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-10",
+        "level": "K2",
+        "field": "mixed_duration",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "mixed_duration"
+        ],
+        "value": 0.0,
+        "position": 1.68,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-11",
+        "level": "K2",
+        "field": "mixed_units",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "mixed_units"
+        ],
+        "value": 0.0,
+        "position": 1.84,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-12",
+        "level": "K2",
+        "field": "mixed_taxonomy",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "mixed_taxonomy"
+        ],
+        "value": 0.0,
+        "position": 2.0,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-13",
+        "level": "K2",
+        "field": "mixed_segment_coreg",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "mixed_segment_coreg"
+        ],
+        "value": 24.0,
+        "position": 2.16,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "24",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-14",
+        "level": "K2",
+        "field": "mixed_accession",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "mixed_accession"
+        ],
+        "value": 0.0,
+        "position": 2.32,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-15",
+        "level": "K3",
+        "field": "mixed_duration",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "mixed_duration"
+        ],
+        "value": 0.0,
+        "position": 2.68,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-16",
+        "level": "K3",
+        "field": "mixed_units",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "mixed_units"
+        ],
+        "value": 0.0,
+        "position": 2.84,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-17",
+        "level": "K3",
+        "field": "mixed_taxonomy",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "mixed_taxonomy"
+        ],
+        "value": 0.0,
+        "position": 3.0,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-18",
+        "level": "K3",
+        "field": "mixed_segment_coreg",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "mixed_segment_coreg"
+        ],
+        "value": 24.0,
+        "position": 3.16,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "24",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-19",
+        "level": "K3",
+        "field": "mixed_accession",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "mixed_accession"
+        ],
+        "value": 0.0,
+        "position": 3.32,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-20",
+        "level": "K4",
+        "field": "mixed_duration",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "mixed_duration"
+        ],
+        "value": 0.0,
+        "position": 3.68,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-21",
+        "level": "K4",
+        "field": "mixed_units",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "mixed_units"
+        ],
+        "value": 0.0,
+        "position": 3.84,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-22",
+        "level": "K4",
+        "field": "mixed_taxonomy",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "mixed_taxonomy"
+        ],
+        "value": 0.0,
+        "position": 4.0,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-23",
+        "level": "K4",
+        "field": "mixed_segment_coreg",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "mixed_segment_coreg"
+        ],
+        "value": 0.0,
+        "position": 4.16,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-24",
+        "level": "K4",
+        "field": "mixed_accession",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "mixed_accession"
+        ],
+        "value": 0.0,
+        "position": 4.32,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-25",
+        "level": "K5",
+        "field": "mixed_duration",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "mixed_duration"
+        ],
+        "value": 0.0,
+        "position": 4.68,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-26",
+        "level": "K5",
+        "field": "mixed_units",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "mixed_units"
+        ],
+        "value": 0.0,
+        "position": 4.84,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-27",
+        "level": "K5",
+        "field": "mixed_taxonomy",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "mixed_taxonomy"
+        ],
+        "value": 0.0,
+        "position": 5.0,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-28",
+        "level": "K5",
+        "field": "mixed_segment_coreg",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "mixed_segment_coreg"
+        ],
+        "value": 0.0,
+        "position": 5.16,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      },
+      {
+        "gid": "source-1-29",
+        "level": "K5",
+        "field": "mixed_accession",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "mixed_accession"
+        ],
+        "value": 0.0,
+        "position": 5.32,
+        "thickness": 0.14,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 216.0,
+          "top": 141.12,
+          "width": 596.16,
+          "height": 287.28,
+          "xlim": [
+            0.0,
+            30.0
+          ],
+          "ylim": [
+            5.678999999999999,
+            -0.679
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "cfd1500e8a384786c791b970d8a91328947fe34b7ad653514c7f5a0ac2835fa1",
+      "svg": "07e2bf66b020bb113160bd540762757e086f40a52adfaf9c8b770c780959a2c0",
+      "pdf": "969218cf56769714a1db0f390d1d8eb14829ada2c0c74e736149d70a4cad97e3"
+    }
+  },
+  {
+    "name": "numeric_disagreement",
+    "artists": [
+      {
+        "gid": "source-2-0",
+        "level": "K0",
+        "field": "numeric_conflict",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "numeric_conflict"
+        ],
+        "value": 15.0,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "15",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            21.25
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-1",
+        "level": "K1",
+        "field": "numeric_conflict",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "numeric_conflict"
+        ],
+        "value": 17.0,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "17",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            21.25
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-2",
+        "level": "K2",
+        "field": "numeric_conflict",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "numeric_conflict"
+        ],
+        "value": 17.0,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "17",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            21.25
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-3",
+        "level": "K3",
+        "field": "numeric_conflict",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "numeric_conflict"
+        ],
+        "value": 17.0,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "17",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            21.25
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-4",
+        "level": "K4",
+        "field": "numeric_conflict",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "numeric_conflict"
+        ],
+        "value": 0.0,
+        "position": 4,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            21.25
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-5",
+        "level": "K5",
+        "field": "numeric_conflict",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "numeric_conflict"
+        ],
+        "value": 0.0,
+        "position": 5,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 207.35999999999999,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            21.25
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-6",
+        "level": "K0",
+        "field": "numeric_disagreements",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K0",
+          "numeric_disagreements"
+        ],
+        "value": 215.0,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "215",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            268.75
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-7",
+        "level": "K1",
+        "field": "numeric_disagreements",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K1",
+          "numeric_disagreements"
+        ],
+        "value": 203.0,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "203",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            268.75
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-8",
+        "level": "K2",
+        "field": "numeric_disagreements",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K2",
+          "numeric_disagreements"
+        ],
+        "value": 203.0,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "203",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            268.75
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-9",
+        "level": "K3",
+        "field": "numeric_disagreements",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K3",
+          "numeric_disagreements"
+        ],
+        "value": 203.0,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "203",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            268.75
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-10",
+        "level": "K4",
+        "field": "numeric_disagreements",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K4",
+          "numeric_disagreements"
+        ],
+        "value": 0.0,
+        "position": 4,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            268.75
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      },
+      {
+        "gid": "source-2-11",
+        "level": "K5",
+        "field": "numeric_disagreements",
+        "source_file": "results/summary.json",
+        "field_path": [
+          "by_key",
+          "K5",
+          "numeric_disagreements"
+        ],
+        "value": 0.0,
+        "position": 5,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 575.424,
+          "top": 126.36000000000001,
+          "width": 245.37600000000003,
+          "height": 271.44,
+          "xlim": [
+            0.0,
+            268.75
+          ],
+          "ylim": [
+            5.58,
+            -0.58
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "850f690540a4d386923952858f4a609952921566a43c13fad69cd5c1543cdf7a",
+      "svg": "0548535ff15ec1cc9f5799ba3ab198d165afc6e6a2347db2051d06ee06fcff2e",
+      "pdf": "0a51bdd9d7647d5d9864dc79d5422721e89e2596a7dae65a3e6fe660eda2e747"
+    }
+  }
+]
